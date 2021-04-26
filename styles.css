@@ -1,0 +1,33 @@
+html {
+    font-size: 1rem;
+}
+
+.nav, .navbar{
+    background-color: #fb743e;
+    color: white;
+    /* align-content: space-between; */
+}
+
+a {
+    color: white;
+}
+.heading {
+    text-align: center;
+    font-size: 0.4rem;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+.column-hd{
+    background-color: #02475e;
+    color: white;
+}
+
+.btm-heading{
+    text-align: center;
+}
+
